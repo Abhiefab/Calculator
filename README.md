@@ -1,97 +1,90 @@
 # 🧮 Calculator
 
-A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations and has a clean user interface.
+A simple, modern, and responsive calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**. It performs basic arithmetic operations with a clean and user-friendly interface.
 
-## 🚀 Features
+## 🌐 Live Demo
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 📊 Percentage
-- ⌫ Backspace
-- 🗑️ Clear Display (AC)
-- 📱 Responsive Design
-- ⚡ Instant Calculation
+🔗 **https://calculator-alpha-two-56.vercel.app/**
 
-## 🛠️ Built With
+## ✨ Features
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 📊 Percentage
+* ⌫ Backspace
+* 🗑️ Clear Display (AC)
+* ⚡ Instant Calculations
+* 📱 Responsive Design
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
 
 ## 📂 Project Structure
 
-```
+```text
 Calculator/
-│── index.html
-│── style.css
-│── index.js
+├── index.html
+├── style.css
+├── index.js
 └── README.md
 ```
 
-## 📸 Screenshot
+## 🚀 Getting Started
 
-> Add a screenshot of your calculator here.
-
-Example:
-
-```
-images/calculator.png
-```
-
-Then use:
-
-```md
-![Calculator Screenshot](images/calculator.png)
-```
-
-## ▶️ How to Run
-
-1. Clone the repository:
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Abhiefab/Calculator.git
 ```
 
-2. Open the project folder.
+### Navigate to the Project
 
-3. Open `index.html` in your browser.
+```bash
+cd Calculator
+```
 
-Or use **Live Server** in VS Code.
+### Run the Project
 
-## 📖 How It Works
+Open `index.html` in your browser or use the **Live Server** extension in Visual Studio Code.
 
-- Click the number and operator buttons to create an expression.
-- Press **=** to evaluate the expression.
-- Press **AC** to clear the display.
-- Press **⌫** to remove the last entered character.
+## 💡 Usage
+
+* Click the number and operator buttons to build an expression.
+* Press **=** to evaluate the expression.
+* Press **AC** to clear the display.
+* Press **⌫** to remove the last entered character.
 
 ## 📌 Future Improvements
 
-- Keyboard Support
-- Dark/Light Theme
-- Calculation History
-- Parentheses Support
-- Scientific Calculator Functions
-- Better Error Handling
+* ⌨️ Keyboard Support
+* 🌙 Dark/Light Theme
+* 🧾 Calculation History
+* 🔢 Parentheses Support
+* 🧮 Scientific Calculator Mode
+* ⚠️ Enhanced Error Handling
 
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
 ## 👨‍💻 Author
 
 **Avinash Singh**
 
-GitHub: https://github.com/Abhiefab
+* GitHub: https://github.com/Abhiefab
+* Portfolio Projects: https://github.com/Abhiefab?tab=repositories
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+⭐ If you like this project, don't forget to **Star** the repository!
